@@ -1,6 +1,6 @@
 # pre-commit hooks
 
-- `go-fmt`: gofmt golang files before git commit.
+- `go-fmt`: gofmt golang files before git commit. ref: [golang.org](https://golang.org/misc/git/pre-commit)
 
 
 ## Usage

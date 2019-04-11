@@ -1,5 +1,5 @@
 -   id: go-fmt
     name: go fmt
     entry: go-fmt.sh
-    language: golang
-    files: '*.go'
+    language: script
+    files: '\.go$'
